@@ -1,0 +1,6 @@
+./*.exe
+*.exe
+./assign*_skel.cpp
+*_skel.cpp
+*.out
+./*.out
